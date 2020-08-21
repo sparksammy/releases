@@ -1,2 +1,0 @@
-# releases
-Sam Releases

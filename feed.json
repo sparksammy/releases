@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sam Releases",
+    "description": "",
+    "home_page_url": "https://sparksammy.github.io/releases",
+    "feed_url": "https://sparksammy.github.io/releases/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Samuel (Sparksammy) Lord"
+    },
+    "items": [
+        {
+            "id": "https://sparksammy.github.io/releases/sam-cancels-a-project-gems-original-and-switchjoy.html",
+            "url": "https://sparksammy.github.io/releases/sam-cancels-a-project-gems-original-and-switchjoy.html",
+            "title": "Sam Cancels a project - GEMS (original) and SwitchJoy.",
+            "summary": "There are several reasons I have cancelled these projects, for GEMS: And, as for SwitchJoy, the web standards are a moving target, and to maintain it we would have to be working every month until we die on it, or we would have to have&hellip;",
+            "content_html": "<p>There are several reasons I have cancelled these projects, for GEMS:</p>\n<ul>\n<li>I don't know C worth a hoot.</li>\n<li>I do, however, somewhat know C#\n<ul>\n<li>Neither does Oklomsy, the only contributor.</li>\n</ul>\n</li>\n<li>Cross compilers don't like third party libraries.\n<ul>\n<li>Even ones with the same architecture.</li>\n</ul>\n</li>\n</ul>\n<p>And, as for SwitchJoy, the web standards are a moving target, and to maintain it we would have to be working every month until we die on it, or we would have to have several more contributors, and let them work on it.</p>\n<p>If you want to continue development on either of these projects, they are on <a href=\"https://github.com/sparksammy\">my GitHub</a>, so feel free to fork and improve.</p>\n<p><em><strong>Have a great day!</strong></em></p>\n<p><span style=\"text-decoration: underline;\"><em>--Sam Lord</em></span></p>",
+            "author": {
+                "name": "Samuel (Sparksammy) Lord"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-20T23:15:59-05:00",
+            "date_modified": "2020-08-20T23:15:59-05:00"
+        },
+        {
+            "id": "https://sparksammy.github.io/releases/sam-releases-pre-beta-software-gems-nt.html",
+            "url": "https://sparksammy.github.io/releases/sam-releases-pre-beta-software-gems-nt.html",
+            "title": "Sam Releases Pre-Beta software - GEMS NT",
+            "summary": "GEMS NT is the new version of GEMS I've been working on for awhile. Hope you people enjoy it! Have a great day! --Sam Lord",
+            "content_html": "<p>GEMS NT is the new version of GEMS I've been working on for awhile. Hope you people enjoy it!</p>\n<p><em><strong>Have a great day!</strong></em></p>\n<p><span style=\"text-decoration: underline;\"><em>--Sam Lord</em></span></p>",
+            "author": {
+                "name": "Samuel (Sparksammy) Lord"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-20T23:15:59-05:00",
+            "date_modified": "2020-08-20T23:15:59-05:00"
+        },
+        {
+            "id": "https://sparksammy.github.io/releases/sam-releases-a-new-page-of-his-site-this-one.html",
+            "url": "https://sparksammy.github.io/releases/sam-releases-a-new-page-of-his-site-this-one.html",
+            "title": "Sam Releases - A new part of his site! (This one!)",
+            "summary": "A new page? Yay! It took forever, but still. Here I will talk about what is releasing. Have a great day! --Sam Lord",
+            "content_html": "<p>A new page? Yay! It took forever, but still. Here I will talk about what is releasing.</p>\n<p> </p>\n<p><em><strong>Have a great day!</strong></em></p>\n<p><span style=\"text-decoration: underline;\"><em>--Sam Lord</em></span></p>",
+            "author": {
+                "name": "Samuel (Sparksammy) Lord"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-20T23:15:59-05:00",
+            "date_modified": "2020-08-20T23:15:59-05:00"
+        }
+    ]
+}
